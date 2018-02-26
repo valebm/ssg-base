@@ -4,11 +4,11 @@ module.exports = {
   site: {
     title: 'SSG Site',
     description: 'SSG Project',
-    basePath: process.cwd()+'\\public',
+    basePath: process.cwd()+'\\docs',
     projects
   },
   build: {
   	basePath: process.cwd(),
-    outputPath:  '.\\public',
+    outputPath:  '.\\docs',
   }
 }

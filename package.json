@@ -5,7 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "main": "./public/index.html",
+  "main": "./docs/index.html",
   "author": "SSG Developer",
   "license": "ISC"
 }

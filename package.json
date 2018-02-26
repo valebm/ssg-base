@@ -1,0 +1,11 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "This is a SSG base project.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "./public/index.html",
+  "author": "SSG Developer",
+  "license": "ISC"
+}

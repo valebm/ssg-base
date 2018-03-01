@@ -5,7 +5,8 @@ module.exports = {
     title: 'SSG Site',
     description: 'SSG Project',
     basePath: process.cwd()+'\\docs',
-    projects
+    projects,
+    author: ''
   },
   build: {
   	basePath: process.cwd(),

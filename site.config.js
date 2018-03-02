@@ -1,5 +1,3 @@
-const projects = require('./data/projects')
-
 module.exports = {
   site: {
     title: 'SSG Site',

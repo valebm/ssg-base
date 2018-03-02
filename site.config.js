@@ -3,7 +3,6 @@ module.exports = {
     title: 'SSG Site',
     description: 'SSG Project',
     basePath: process.cwd()+'\\docs',
-    projects,
     author: ''
   },
   build: {
